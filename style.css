@@ -1,0 +1,77 @@
+/* стилизация header */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.title {
+    font-size: 24px;
+}
+
+.com, tr {
+    color: #cecece;
+}
+
+.head_com {
+    color: #1a1818;
+}
+
+/* стилизация table */
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+/* стилизация nav */
+nav {
+    background-color: #f2f2f2;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #333;
+}
+
+/* стилизация footer */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+.exam1, h4 {
+    color: #202020;
+}
+
+.exam2, lh {
+    color: #202020;
+    font-weight: bold;
+}
+
+.foo {
+    font-weight: lighter;
+}
